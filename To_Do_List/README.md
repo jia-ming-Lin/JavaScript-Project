@@ -5,7 +5,7 @@
  - Html
  - Css
  - jQurey 2.1.4
- - javaScript 
+ - JavaScript 
  - fontawesome
 # Resorce
  - w3.school https://www.w3schools.com/html/html_blocks.asp
